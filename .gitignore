@@ -1,0 +1,17 @@
+# Build directories
+build/
+bin/
+lib/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Doxygen generated docs
+docs/html/
+docs/latex/
